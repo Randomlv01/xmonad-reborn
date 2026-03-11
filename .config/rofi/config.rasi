@@ -1,0 +1,13 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ font: "IosevkaTerm Nerd Font 12";
+ combi-modi: "window,drun,ssh";
+ show-icons: false;
+ terminal: "alacritty";
+ drun-display-format: "{icon} {name}";
+ location: 0;
+ display-drun: "start";
+ }
+@theme "theme"
+
+
